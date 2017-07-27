@@ -1,0 +1,41 @@
+.conteiner{
+    width: 970px;
+    margin: 0 auto;
+}
+.crg{
+    position: relative;
+    float: left;
+}
+.crg img{
+    width: 500px;
+}
+.text{
+    position: absolute;
+    left: 0px;
+    width: 480px;
+    bottom: 40px;
+    padding: 10px;
+    background: rgba(0, 0, 0, 0.7);
+    color: white;
+}
+
+.arrow{
+    color: #333;
+}
+
+.left{
+        position: absolute;
+        width: 15px;
+        height: 15px;
+        
+top:50%;
+left: 10px;
+border-radius: 100%;
+background: rgba(0, 0, 0, 0.7);
+color: white;
+}
+.right{
+        position: absolute;
+top:50%;
+right: 10px;
+}
